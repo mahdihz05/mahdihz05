@@ -1,50 +1,41 @@
-# سلام، من [نام خودت] هستم! 👋
+# Mahdi Hosseinzadeh
 
-من یک دانشجوی فیزیک هستم که مسیر حرفه‌ای خودم رو با دنیای برنامه‌نویسی و هوش مصنوعی گره زده‌ام. نگاه من به توسعه نرم‌افزار، ترکیبی از تحلیل‌های دقیق فیزیکی و خلاقیت در پیاده‌سازی تکنولوژی‌های مدرن است.
+Software engineer and entrepreneur working on web platforms, content systems, and AI-assisted development workflows. I also study Physics and am interested in scientific computing.
+
+## What I work on
+
+- Python/Django backends and JavaScript/TypeScript web applications.
+- Content management, multilingual interfaces, and Persian right-to-left experiences.
+- AI-assisted engineering with explicit review, testing, and delivery checks.
+
+## Selected public work
+
+| Project | What you can explore |
+| --- | --- |
+| [ABRIT Content Platform](https://github.com/mahdihz05/abrit-content-platform-showcase) | A public product showcase for AI-assisted content planning and publishing. The implementation remains private. |
+| [Payload CMS Starter](https://github.com/mahdihz05/payload-CMS) | A reusable Next.js and Payload CMS foundation with localization and structured pages. Independent of the official Payload project. |
+| [Visiona](https://github.com/mahdihz05/CMS) | A Wagtail/Django catalog pilot with a Next.js frontend and fictional eyewear demo content. |
+| [Persian educational web game](https://github.com/mahdihz05/kids-web-game) | A Persian story-driven learning application built with React and TypeScript. |
+| [Divan literary platform](https://github.com/mahdihz05/literary-hub) | An interactive Persian frontend demo. Authentication, purchases, and payments are simulated. |
+
+## How to read this portfolio
+
+Public repositories include reusable foundations, demos, and experiments; they do not all represent production services. Each project's README describes its scope and limitations. A showcase repository presents a product without publishing its private code or operational data.
+
+I use AI coding tools in my workflow. Their involvement does not replace engineering review or establish expertise in every technology used by a project.
+
+## Current interests
+
+Software architecture, agent-assisted engineering, automation, and the intersection of Physics and programming.
+
+For project-specific questions, use the relevant repository's issue tracker when it is enabled.
 
 ---
 
-### 🚀 درباره من
-*   ⚛️ **فیزیک و کد:** دانشجو و علاقه‌مند به مسائل چالش‌برانگیز که سعی دارم با ابزارهای برنامه‌نویسی برای آن‌ها راه‌حل‌های بهینه پیدا کنم.
-*   💻 **تخصص‌ها:** تجربه در توسعه وب (Full-stack) با تمرکز بر **Python** و **Django** برای بک‌اند و مهارت در **JS, HTML, CSS, Bootstrap** برای فرانت‌اند.
-*   🧠 **هوش مصنوعی:** فعالیت تخصصی در حوزه **AI/ML**؛ همیشه به دنبال پیاده‌سازی پروژه‌های نوآورانه و چالش‌برانگیز هستم.
-*   ⚡ **رویکرد مدرن:** من عمیقاً به «وایب کدینگ» (Coding Vibe) و قدرت **هوش مصنوعی و ایجنت‌های هوشمند** اعتقاد دارم. هدف من در پروژه‌ها، استفاده از ابزارهای AI برای افزایش چشمگیر سرعت توسعه و ارتقای کیفیت کدهای نهایی است.
+<div dir="rtl">
 
----
+**مهدی حسین‌زاده** — مهندس نرم‌افزار و کارآفرین، دانشجوی فیزیک.
 
-### 📊 آمار گیت‌هاب
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdihz05&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ymahdihz05&layout=compact&theme=radical" alt="Top Langs" />
+روی پلتفرم‌های وب، سیستم‌های محتوا و فرایندهای توسعه با کمک هوش مصنوعی کار می‌کنم. این صفحه نمونه‌کارهای عمومی را معرفی می‌کند؛ برخی پروژه‌ها دمو هستند و برخی فقط معرفی عمومی دارند. وضعیت و محدودیت هر پروژه در README خودش مشخص شده است.
+
 </div>
-
----
-
-### 🛠 مهارت‌های فنی
-*   **Languages:** Python, JavaScript
-*   **Web Frameworks:** Django
-*   **Frontend:** HTML5, CSS3, Bootstrap
-*   **AI/ML:** Machine Learning Libraries, AI Agents, Prompt Engineering
-*   **Tools:** Git, Docker
-*   **Other:** آشنا به متدولوژی‌های توسعه سریع و بهینه‌سازی فرآیندها
-
----
-
-### 📈 وضعیت فعلی
-در حال حاضر به صورت پروژه‌ای با مجموعه‌های مختلف همکاری می‌کنم و در کنار آن، همواره در حال یادگیری و به‌روزرسانی دانش خودم در حوزه تکنولوژی‌های نوین و ایجنت‌های هوشمند هستم.
-
----
-
-### 🌐 راه‌های ارتباطی
-خوشحال می‌شم با هم در ارتباط باشیم:
-
-| پلتفرم | آدرس |
-| :--- | :--- |
-| **لینکدین** | [لینک پروفایل لینکدین](https://linkedin.com/in/YOUR_LINKEDIN) |
-| **تلگرام** | [ارتباط در تلگرام](https://t.me/YOUR_TELEGRAM) |
-| **اینستاگرام** | [مشاهده اینستاگرام](https://instagram.com/YOUR_INSTAGRAM) |
-
----
-*«در دنیای برنامه‌نویسی، هوش مصنوعی دیگر یک ابزار نیست، یک همکار قدرتمند است.»*
-
-***
